@@ -1,0 +1,9 @@
+.bg-subtle-primary {
+	--bs-bg: var(--bs-primary-bg-subtle);
+background-color: var(--bs-bg);
+}
+
+.border-primary {
+	--bs-bc: var(--bs-primary-bg);
+border-color: var(--bs-bc);
+}
